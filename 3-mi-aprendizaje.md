@@ -22,6 +22,9 @@ Causa: Puerto mal configurado.
 Solución: Mapeo correcto del puerto 9000 en docker-compose.yaml.
 Beneficios para la formación profesional
 Infraestructura como código (IaC): Experiencia en entornos reproducibles con Docker Compose.
+
 DevOps: Configuración de herramientas como SonarQube para análisis estático de código.
+
 Resolución de problemas: Diagnóstico eficiente en entornos de contenedores.
+
 Escalabilidad: Preparación para trabajar en equipos con configuraciones compartibles y escalables.
