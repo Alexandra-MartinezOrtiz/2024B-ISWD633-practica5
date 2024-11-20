@@ -10,7 +10,7 @@ La indentación indica jerarquía. Asegúrate de usar el mismo número de espaci
 ## Claves y valores
 Las claves y valores se separan por dos puntos seguidos de un espacio (:).
 
-## Ejercicio
+## Ejercicio``
 El archivo compose.yaml permitirá configurar dos servicios de acuerdo con el siguiente esquema:
 
 ![Ejercicio docker compose](imagenes/ejercicio-docker-compose.PNG)
@@ -45,7 +45,8 @@ docker compose up -d <nombre servicio>
 ```
 docker compose ps
 ```
-### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
+![image](https://github.com/user-attachments/assets/97eef48e-eafa-4eb4-9d44-9e0cfb2fef9b)
+
 
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
